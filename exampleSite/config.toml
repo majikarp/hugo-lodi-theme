@@ -5,7 +5,7 @@ theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    theme_color = "#574CDD"
+    theme_color = "#C04000"
     description = "Portfolio of Alexis Collado, UX Designer"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"

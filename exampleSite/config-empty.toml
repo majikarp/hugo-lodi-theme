@@ -6,7 +6,7 @@ theme = "hugo-lodi-theme"
 
 [params]
     # head theme color
-    theme_color = ""
+    theme_color = "#C04000"
 
     # head description
     # This is what appears on the preview when posting this site on Facebook for example
